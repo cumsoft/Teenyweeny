@@ -37,14 +37,10 @@ $ More Documentation Soon...
 > Please firstly, Follow and review the install instructions.
 >
 >
->Save notes without creating an account.
+> Save notes without creating an account.
 Download your code, notes or to-do lists in Text format.
 Import from Word, PDF and other documents.
 Take class notes and share and collaborate with others.
->
->
-> This software is intended as a ".txt" file extension editor.
-> All text entered into the form can be saved as a ".txt" file by specifying the naming convention and then selecting the "save" button.
 >
 > Teenyweeny Text Editor can run with or without wifi.
 > Teenyweeny Text Editor can run in different operating systems via the browser
