@@ -66,5 +66,5 @@ Copyright © 2022 <copyright holders>
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © 2022 
+## 𝘾𝙪𝙢𝙨𝙤𝙛𝙩 𝘾𝙤𝙥𝙮𝙧𝙞𝙜𝙝𝙩 © 2023 
 [Github](https://github.com/cumsoft) * [Website](https://cumsoft.wixsite.com/cumsoft) * [Instagram](https://instagram.com/cumsoftcumsoft?igshid=YmMyMTA2M2Y=) * [Gumroad](https://cumsoft.gumroad.com/)
